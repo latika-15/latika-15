@@ -5,9 +5,7 @@
 
 -  I’m currently working on [TechVision](https://github.com/latika-15/TechVision_minor)
 
--    Currently learning **React.js**
-
--  Reach me **latika15nancy@gmail.com**
+-  Reach me **latika15nancy@gmail.co**
 
 -  Know about my experiences [https://drive.google.com/file/d/1n3JYHAxFIR15nhCGDs5fQt0RYLTjXX_I/view?usp=drivesdk](https://drive.google.com/file/d/1n3JYHAxFIR15nhCGDs5fQt0RYLTjXX_I/view?usp=drivesdk)
 
