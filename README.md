@@ -146,8 +146,7 @@ I enjoy working with structured and unstructured data to uncover trends, build d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latika-15&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latika-15&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latika-15&theme=tokyonight" />
 </p>
 
 ---
