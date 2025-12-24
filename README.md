@@ -149,15 +149,4 @@ I enjoy working with structured and unstructured data to uncover trends, build d
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/latika-15?style=flat-square" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/forks/latika-15?style=flat-square" alt="GitHub forks"/>
-  <img src="https://img.shields.io/github/issues/latika-15?style=flat-square" alt="GitHub issues"/>
-  <img src="https://img.shields.io/github/watchers/latika-15?style=flat-square" alt="GitHub watchers"/>
-</p>
-
----
-
 ⭐ *Open to Data Analyst Internships & Learning Opportunities*  
