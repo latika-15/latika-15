@@ -7,9 +7,6 @@
 
 <p align="center">
   <!-- GitHub Badge -->
-  <a href="https://github.com/latika-15">
-    <img src="https://img.shields.io/github/followers/latika-15?label=Follow&style=social" alt="Follow on GitHub"/>
-  </a>
   <img src="https://img.shields.io/badge/📊-Data%20Analytics-blue" alt="Data Analytics Badge">
   <img src="https://img.shields.io/badge/🔍-SQL%20%7C%20Python%20%7C%20PowerBI-green" alt="Skills Badge">
 </p>
@@ -155,7 +152,10 @@ I enjoy working with structured and unstructured data to uncover trends, build d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latika-15&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://img.shields.io/github/stars/latika-15?style=flat-square" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/forks/latika-15?style=flat-square" alt="GitHub forks"/>
+  <img src="https://img.shields.io/github/issues/latika-15?style=flat-square" alt="GitHub issues"/>
+  <img src="https://img.shields.io/github/watchers/latika-15?style=flat-square" alt="GitHub watchers"/>
 </p>
 
 ---
