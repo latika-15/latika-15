@@ -146,7 +146,7 @@ I enjoy working with structured and unstructured data to uncover trends, build d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latika-15&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latika-15&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 ---
