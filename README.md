@@ -5,6 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=latika-15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <!-- GitHub Badge -->
+  <a href="https://github.com/latika-15">
+    <img src="https://img.shields.io/github/followers/latika-15?label=Follow&style=social" alt="Follow on GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/📊-Data%20Analytics-blue" alt="Data Analytics Badge">
+  <img src="https://img.shields.io/badge/🔍-SQL%20%7C%20Python%20%7C%20PowerBI-green" alt="Skills Badge">
+</p>
+
 ---
 
 ## 👩‍💻 About Me  
