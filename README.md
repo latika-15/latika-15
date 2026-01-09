@@ -1,143 +1,127 @@
 <h1 align="center">Hi 👋, I'm Latika Tewari</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Meaningful Insights 📊</h3>
+<h3 align="center">Web & WordPress Developer | Data Analytics Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=latika-15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <!-- GitHub Badge -->
-  <img src="https://img.shields.io/badge/📊-Data%20Analytics-blue" alt="Data Analytics Badge">
-  <img src="https://img.shields.io/badge/🔍-SQL%20%7C%20Python%20%7C%20PowerBI-green" alt="Skills Badge">
+  <img src="https://img.shields.io/badge/🌐-Web%20Development-blue" />
+  <img src="https://img.shields.io/badge/🧩-WordPress%20%7C%20PHP%20%7C%20JS-green" />
+  <img src="https://img.shields.io/badge/📊-Data%20Analytics-orange" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-🎓 B.Tech student in **Computer Science & Information Technology** at **AITR, Indore**  
-📊 Passionate about **Data Analytics, Visualization & Business Insights**  
-🔍 Curious, detail-oriented, and driven by problem-solving using data  
+🎓 B.Tech student in **Computer Science & Information Technology**  
+🌐 Interested in **Web Development, WordPress, and Full-Stack basics**  
+📊 Strong foundation in **Data Analytics & Visualization**
 
-I enjoy working with structured and unstructured data to uncover trends, build dashboards, and support data-driven decision-making. My goal is to grow as a **Data Analyst Intern**, continuously learning and applying analytical thinking to real-world problems.
+I enjoy building **clean, responsive websites** and also working with **data to extract meaningful insights**.  
+I like combining **development + analytics thinking** to create solutions that are both functional and data-driven.
 
----
-
-## 🧠 Career Summary  
-
-> Passionate and detail-oriented B.Tech student with a strong interest in data analytics and understanding how data can solve real business problems. Experienced in data cleaning, exploratory data analysis, and visualization. Recognized for analytical thinking, consistency, and teamwork, with hands-on project and internship experience.
+Currently exploring opportunities as a **Web / WordPress Developer** and **Data Analyst Intern**.
 
 ---
 
-## 🛠️ Technical & Analytical Skills  
+## 🧠 What I Do  
 
-### 🔹 Programming  
-- **Python**, C++
+- Build **responsive websites** using HTML, CSS, JavaScript & WordPress  
+- Work with **PHP & MySQL** for backend and CMS-based projects  
+- Analyze datasets using **Python, SQL, Excel, Power BI**  
+- Create **dashboards & visual reports** for decision-making  
+- Collaborate in **remote, team-based environments**
 
-### 🔹 Data & Analytics Tools  
-- **Excel**, **SQL**
-- **Power BI**, Tableau (Basic)
+---
 
-### 🔹 Analytics Skills  
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- Dashboarding & Reporting  
+## 🛠️ Technical Skills  
 
-### 🔹 Core CS Knowledge  
-- DBMS  
-- OOPs  
-- SDLC  
-- DSA  
+### 🔹 Web & Development  
+- HTML5, CSS3, JavaScript  
+- WordPress (Themes, Plugins, CMS)  
+- PHP (Basics), MySQL  
+- React.js (Basics), Node.js  
 
-### 🔹 Web Basics  
-- HTML, CSS, JavaScript  
+### 🔹 Data Analytics  
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL  
+- Excel  
+- Power BI, Tableau (Basic)  
+- Data Cleaning, EDA, Visualization  
 
-### 🔹 Soft Skills  
-- Leadership  
-- Communication  
-- Teamwork  
-- Critical Thinking  
-- Problem-Solving  
+### 🔹 Tools & Concepts  
+- Git & GitHub  
+- DBMS, OOPs, SDLC  
+- DSA (Basics)
 
 ---
 
 ## 📂 Projects  
 
-### 📌 Amazon Sales Analysis  
-- Analyzed sales data to identify trends and performance metrics  
-- Built interactive dashboards using **Excel & Power BI**  
-- Delivered actionable business insights  
+### 🌐 WordPress Hub  
+- Built a **multi-page WordPress website** for blogs, projects, and creative content  
+- Customized themes using **HTML, CSS, JavaScript & basic PHP**  
+- Implemented SEO-friendly structure and responsive design  
 
-### 📌 Customer Behavior Analysis  
-- Performed **EDA** on customer shopping behavior  
-- Used **Python & SQL** for data analysis  
-- Created interactive dashboards in **Power BI**  
+### 📊 Amazon Sales Analysis  
+- Analyzed sales data and identified trends  
+- Created **interactive dashboards** using Excel & Power BI  
+
+### 📊 Customer Behavior Analysis  
+- Performed **EDA** using Python & SQL  
+- Visualized customer insights with Power BI dashboards  
+
+### 🏥 HIPAA-Compliant Medical Platform (Hackathon)  
+- Developed a **secure and responsive frontend** using React  
+- Designed UI for login, file upload, and role-based access  
+- Collaborated in a team and presented the project to evaluators  
 
 ---
 
 ## 🏢 Internship Experience  
 
-### 📊 Data Visualization & Insights Intern  
-- Developed clear and impactful data visualizations using **Python libraries**  
-- Supported business insights through analytical reporting  
-- Collaborated with a remote, cross-functional team  
+**Data Visualization & Insights Intern (Remote)**  
+- Built data visualizations using Python libraries  
+- Supported business insights through dashboards and reports  
+- Worked with a cross-functional remote team  
 
 ---
 
 ## 📜 Certifications  
 
-- **Python for Data Science** – NPTEL  
-- **Introduction to Database Systems** – NPTEL  
-- **Data Analytics Job Simulation** – Deloitte (Forage)  
+- Python for Data Science – NPTEL  
+- Introduction to Database Systems (SQL) – NPTEL  
+- Data Analytics Job Simulation – Deloitte (Forage)
 
 ---
 
 ## 🎓 Education  
 
-- **B.Tech (CS & IT)** – AITR, Indore  
-  *2022 – 2026 (Ongoing)* | **76.4%**
-
-- **Class XII (CBSE)** – Sharda Public School, Almora  
-  *2020* | **65.8%**
-
-- **Class X (CBSE)** – Sharda Public School, Almora  
-  *2018* | **79.5%**
+- **B.Tech – CS & IT**, AITR Indore (2022–2026) | 76.4%  
+- **Class XII (CBSE)** – 65.8%  
+- **Class X (CBSE)** – 79.5%
 
 ---
 
-## 🏆 Achievements & Extracurriculars  
+## 🏆 Achievements  
 
-♟️ **1st Position** – Chess Competition  
-🎨 **2nd Runner-Up** – Drawing & Selfie-Point Making Competition  
-🏆 **1st Prize** – Engineers’ Day Classroom Decoration (Team Event)  
-
----
-
-## 🎨 Interests  
-
-- Playing Chess – Enhancing strategic thinking  
-- Reading & Anime – Broadening perspective  
-- Drawing – Creative self-expression  
+♟️ 1st Position – Chess Competition  
+🎨 2nd Runner-Up – Drawing & Selfie Point Competition  
+🏆 1st Prize – Engineers’ Day Classroom Decoration  
 
 ---
 
-## 📫 Contact Me  
+## 📫 Connect With Me  
 
-📍 **Location:** Sri Mangal Nagar, Indore  
-📞 **Phone:** +91-9557727458  
-📧 **Email:** lavitewari15@gmail.com  
-
----
-
-## 🌐 Connect With Me  
+📍 Indore, India  
+📧 lavitewari15@gmail.com  
+📞 +91-9557727458  
 
 <p align="left">
 <a href="https://linkedin.com/in/latika-tewari-2a2745286" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-<a href="https://medium.com/@lavitewari15" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/>
 </a>
 <a href="https://www.leetcode.com/latika_1510" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
@@ -149,4 +133,4 @@ I enjoy working with structured and unstructured data to uncover trends, build d
 
 ---
 
-⭐ *Open to Data Analyst Internships & Learning Opportunities*  
+⭐ Open to **Web Developer / WordPress Developer / Data Analyst ** roles  
